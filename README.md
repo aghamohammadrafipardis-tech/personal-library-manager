@@ -57,18 +57,6 @@ python main.py
 
 **Note:** Make sure Python 3 is installed. Replace `main.py` with the actual entry-point filename if necessary.
 
-## 📸 Screenshots
-
-Add screenshots of the application below to demonstrate its main functionalities.
-
-### Login & Registration
-<!-- Add screenshot here -->
-
-### Book Management
-<!-- Add screenshot here -->
-
-### Library Statistics
-<!-- Add screenshot here -->
 
 ## 📖 What We Learned
 
